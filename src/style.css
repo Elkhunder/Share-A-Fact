@@ -36,7 +36,8 @@ body {
   font-weight: 600;
   margin-right: 10px;
   font-size: 24px;
-  letter-spacing: 0;
+  font-family: 'Special Elite';
+  letter-spacing: 1px;
 }
 
 /* MAIN LAYOUT */
